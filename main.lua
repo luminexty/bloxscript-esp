@@ -23,7 +23,7 @@ Universal:AddButton({
 Universal:AddButton({
 	Name = "Infinite Yield",
 	Callback = function()
-		loadstring(game:HttpGet('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Universal/InfiniteYield.lua'))()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/luminexty/infiniti-yield/main/source'))()
 	end
 })
 
