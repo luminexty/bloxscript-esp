@@ -16,7 +16,7 @@ Universal:AddButton({
 Universal:AddButton({
 	Name = "Tracers",
 	Callback = function()
-		loadstring(game:HttpGet('https://raw.githubusercontent.com/Blissful4992/ESPs/main/2D%20Box%20ESP/ESP%20%2B%20Health%20Bars.lua'))()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/fatesc/fates-esp/main/main.lua'))()
 	end
 })
 
