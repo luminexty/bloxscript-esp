@@ -14,13 +14,6 @@ Universal:AddButton({
 })
 
 Universal:AddButton({
-	Name = "Tracers",
-	Callback = function()
-		loadstring(game:HttpGet('https://raw.githubusercontent.com/fatesc/fates-esp/main/main.lua'))()
-	end
-})
-
-Universal:AddButton({
 	Name = "Fullbright",
 	Callback = function()
 		loadstring(game:HttpGet('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Universal/Fullbright.lua'))()
